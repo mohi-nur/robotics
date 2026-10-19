@@ -1,0 +1,1 @@
+A humanoid robot stands upright, slowly raises its right arm, waves its right hand three times, then lowers its arm and returns to a standing position. Smooth and balanced motion.
